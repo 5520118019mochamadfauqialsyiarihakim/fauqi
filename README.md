@@ -1,0 +1,2 @@
+# fauqi
+data belajar
